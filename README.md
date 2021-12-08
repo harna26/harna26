@@ -56,3 +56,22 @@
   <a href="https://www.linkedin.com/in/JihyunHarnaLee/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/JihyunHarnaLee/"/></a>
 
 </p>
+
+---
+  <!--START_SECTION:waka-->
+
+**I'm a Night 🦉** 
+
+  
+  
+  
+  
+  
+  <!--END_SECTION:waka-->
+
+
+
+
+
+
+
