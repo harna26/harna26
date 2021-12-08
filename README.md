@@ -61,7 +61,7 @@
   <!--START_SECTION:waka-->
 
 
- name: Waka Readme
+name: Waka Readme
 
 on:
   schedule:
@@ -75,11 +75,9 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: fa5c900c-5a35-4ac7-a7dd-dea70a953574
-          GH_TOKEN: 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
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-  
-  
   
   
   <!--END_SECTION:waka-->
