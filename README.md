@@ -53,6 +53,6 @@
 
 <p align="center">
   <a href="mailto:harna26@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=harna26@gmail.com"/></a>
-  <a href="www.linkedin.com/in/JihyunHarnaLee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/JihyunHarnaLee"></a>
+  <a href="www.linkedin.com/in/JihyunHarnaLee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 
 </p>
