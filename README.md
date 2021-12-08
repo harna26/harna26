@@ -6,10 +6,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyun&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-  ---
+<h2 align="center">🛠 Skills 🛠</h2>
 
-<h3 align="center">🛠 Skills 🛠</h3>
-<br>
 <div align="center">
     
   <div>
@@ -48,15 +46,13 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </div>
-  
-  ---
-  
+    
 </div>
+<br>
+<h2 align="center">🍒 Follow Me 🍒</h2>
 
-
-
-<h3 align="center">🍒 Follow Me 🍒</h3>
 <p align="center">
-  <a href="https://www.instagram.com/2_____jh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/2_____jh/"/></a>&nbsp
   <a href="mailto:harna26@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=harna26@gmail.com"/></a>
+  <a href="www.linkedin.com/in/JihyunHarnaLee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/JihyunHarnaLee"></a>
+
 </p>
