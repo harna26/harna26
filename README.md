@@ -60,5 +60,75 @@
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 206 Contributions in the Year 2021
+ > 
+> 📦 5.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42% 
+🌆 Daytime    39 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌃 Evening    34 commits     ███████░░░░░░░░░░░░░░░░░░   29.06% 
+🌙 Night      40 commits     ████████░░░░░░░░░░░░░░░░░   34.19%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
+Tuesday      28 commits     ██████░░░░░░░░░░░░░░░░░░░   23.93% 
+Wednesday    24 commits     █████░░░░░░░░░░░░░░░░░░░░   20.51% 
+Thursday     28 commits     ██████░░░░░░░░░░░░░░░░░░░   23.93% 
+Friday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
+Saturday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.84% 
+Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               1 repo              █████████████████████████   100.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/harna26/harna26/main/charts/bar_graph.png) 
+
+
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
 
