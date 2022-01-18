@@ -24,15 +24,11 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
-  </div>
-  
-  <div>
-    <h4>DEVOPS</h4>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   </div>
-  
+
   <div>
-    <h4>TOOL</h4>
+    <h4>TOOLS</h4>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ+IDEA&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
